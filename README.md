@@ -9,3 +9,5 @@
 `verify_code_generate.py` 生成验证码
 
 `generate_timeline_pic.py` 制作时间轮播图
+
+`whos_awesome.py` 颜值比较器
